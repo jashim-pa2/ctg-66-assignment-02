@@ -1,0 +1,100 @@
+head{
+	display: none;
+meta{
+	display: none;
+}
+.top-header{
+	background-color: black;
+	display: block;
+}
+.pad{
+	padding: 8px 0;
+}
+.container{
+	width: 1000px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.contact-box{
+	width: 50%;
+	float: left;
+}
+.social-box{
+	width: 50%;
+	float: left;
+}
+.pad{
+	padding: 8px 0;
+}
+.container{
+	width: 1000px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.logo{
+	width: 20%;
+	float: left;
+}
+.nav-menu{
+	width: 80%;
+	float: left;
+}
+.bg{
+	background-image: url(../images/pexels-59.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.container{
+	width: 1200px;
+	margin: 0 auto;
+	overflow: hidden;
+	display: block;
+}
+.business-content{
+	width: 50%;
+	float:left;
+	padding: 100px 0;
+	margin-left: 50px;
+
+}
+.signup-form{
+	width: 40%;
+	float: left;
+	padding: 100px 0
+}
+.logo-block{
+	background-color: #c8e158;
+	display: block;
+}
+.body-content{
+	margin-left: 55px;
+	display: block;
+	border-radius: 3px;
+	text-indent: 20px;
+	width: auto;
+	padding: 0px 4px 0px 0px;
+	text-align: center;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: bold;
+	font-stretch: normal;
+	font-size: 11px;
+	line-height: 20px;
+	font-family: "helverica neue", helvetica, sans-serif;
+	color: rgb(255, 255, 255);
+	background: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zd…UsMS42ODYgMTQuNzMzLDEuNjg2IiBmaWxsPSIjYmQwODFjIj48L3BhdGg+PC9nPjwvc3ZnPg==) 3px 50% / 14px 14px no-repeat rgb(189, 8, 28);
+	position: absolute;
+	opacity: 1;
+	z-index: 8675309;
+	display: none;
+	cursor: pointer;
+	border: none;
+	-webkit-font-smoothing: antialiased;
+	body{
+		margin: 0;
+		padding: 0;
+
+	}
+
+
+}
